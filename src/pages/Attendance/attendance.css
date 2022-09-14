@@ -1,0 +1,10 @@
+.attendance-card{
+    background: rgb(255,255,255);
+    background: linear-gradient(120deg, rgba(255,255,255,1) 20%, rgb(255, 231, 247) 100%, rgba(255,255,255,1) 100%, rgba(255,255,255,1) 100%);
+}
+
+.attendance-text{
+    color: #cb0c9f;
+    font-size: 22px !important;
+    font-weight:500 !important;
+}

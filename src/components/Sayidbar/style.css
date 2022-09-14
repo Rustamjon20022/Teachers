@@ -1,0 +1,33 @@
+.iconNav {
+	background-color: #ffffff;
+	/* box-shadow: 1px 1.3px 10px 0.1px #b1a9a9; */
+	color: rgb(0, 0, 0);
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.active {
+	color: #fff;
+	text-decoration: none;
+}
+.text {
+	font-weight: 500;
+	color: #67748e;
+	text-transform: capitalize;
+}
+
+.active #btnBox {
+	font-weight: 600;
+	background-color: white;
+	box-shadow: 0 20px 27px 0 rgb(0 0 0 / 5%);
+}
+.active #btnBox .text {
+	font-weight: 600;
+	color: #000;
+}
+.active #btnBox .iconNav {
+	background-color: #cb0c9f;
+	color: white;
+}
